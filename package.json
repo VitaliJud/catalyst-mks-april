@@ -17,5 +17,8 @@
     "dotenv-cli": "^7.3.0",
     "turbo": "^1.11.1",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@makeswift/runtime": "^0.15.0"
   }
 }
